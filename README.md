@@ -2,6 +2,9 @@
 Python + Power BI Project | Incident & System Reliability Analysis
 
 ### Project Overview
+## 📊 Dashboard Preview
+
+![IT Ops Dashboard](visuals/IToperationsdashboard.png)
 
 Modern IT teams rely on fast incident resolution and stable systems to maintain business continuity.
 This project analyzes simulated IT operations incident data to identify reliability risks, resolution bottlenecks, and system-level performance trends.
